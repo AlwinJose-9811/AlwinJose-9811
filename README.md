@@ -1,6 +1,5 @@
-# 💫 About Me:
-I'm Alwin Jose a BTech Computer Science and Business Systems student at VIT Vellore
-I'm currently working on improving problem-solving skills through consistent DSA practice<br>I'm looking to collaborate on Hackathon projects with strong product thinking and Full-stack web applications<br>I'm looking for help with understanding how to turn projects into production-ready products<br>My current learning revolves around Data Structures and Algorithms, and core computer concepts<br>Ask me about Hackathons & project ideation along with balancing college, projects, and placements without losing sanity<br>I code better with music on and notifications off
+#                               I'm Alwin Jose
+ A BTech Computer Science and Business Systems student at VIT Vellore<br>I'm currently working on improving problem-solving skills through consistent DSA practice<br>I'm looking to collaborate on Hackathon projects with strong product thinking and Full-stack web applications<br>I'm looking for help with understanding how to turn projects into production-ready products<br>My current learning revolves around Data Structures and Algorithms, and core computer concepts<br>Ask me about Hackathons & project ideation along with balancing college, projects, and placements without losing sanity.
 
 
 # 💻 Tech Stack:
